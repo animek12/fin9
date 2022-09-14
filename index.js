@@ -6597,7 +6597,7 @@ module.exports = async (
       case _0x1d56ef + 'daftarprem':
       case _0x1d56ef + 'daftarpremium':
         var _0x54f673 =
-          'Jika kamu ingin menjadi Member Premium, kamu cukup membayar Rp5.000 untuk 1 Minggu, Rp20.000 untuk 1 Bulan dan jika ingin menjadi Member Premium Permanen kamu hanya membayar Rp50.000. Jika berminat silahkan chat Owner Bot, ketik ' +
+          'Jika kamu ingin menjadi Member Premium, kamu cukup membayar Rp5.000 untuk 1 Minggu, Rp20.000 untuk 1 Bulan Jika berminat silahkan chat Owner Bot, ketik ' +
           _0x1d56ef +
           _0x1ca3ce(1144)
         _0x358c06(_0x54f673)
